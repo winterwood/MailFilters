@@ -1,4 +1,3 @@
-@@
 MailFilters sorts emails on IMAP Server. It is based on the idea that rules
 should be generated with simple copying of email to specific folders.
 It can be used with any IMAP email client and server software.
